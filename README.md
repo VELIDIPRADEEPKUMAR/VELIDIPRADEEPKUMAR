@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VELIDIPRADEEPKUMAR
-- 👀 I’m interested in VLSI MIXED ANALOG DESIGN AND VERILOG
+- 👀 I’m interested in VLSI MIXED ANALOG DESIGN AND VERILOG RTL DESIGNER
 - 🌱 I’m currently learning TO DESIGNING SOC AND PROCESSERS 
 - 💞️ I’m looking to collaborate on VERILOG DESIGN ON SOC AND PROCESSERS 
 - 📫 How to reach me ...
